@@ -1,3 +1,2 @@
 #test CODEOWNERS file to ensure notifications are issued if anybody commits
 @trmatthe
-*.pub @timmatx
